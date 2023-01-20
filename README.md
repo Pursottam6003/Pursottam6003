@@ -1,4 +1,4 @@
-<!-- <img src="https://media.licdn.com/dms/image/C4D16AQGyguyE4G8wiw/profile-displaybackgroundimage-shrink_350_1400/0/1654761982318?e=1679529600&v=beta&t=F8eAuZ-uqQIIoSjppQ-3ZoT6vQVj6Etg6jeIotpguEI" align="center"> -->
+<img src="https://media.licdn.com/dms/image/C4D16AQGyguyE4G8wiw/profile-displaybackgroundimage-shrink_350_1400/0/1654761982318?e=1679529600&v=beta&t=F8eAuZ-uqQIIoSjppQ-3ZoT6vQVj6Etg6jeIotpguEI" align="center">
 <h1 align="center">Hi 👋, I'm Pursottam Sah</h1>
 <h3 align="center">A passionate Full stack web developer and machine learning enthusiastic from India</h3>
 
