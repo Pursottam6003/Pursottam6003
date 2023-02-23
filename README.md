@@ -41,55 +41,59 @@
                             <a href="https://www.leetcode.com/rahulsah6003/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulsah6003/" height="40" width="50" /></a>
                         <span class="flex-title" align="left" >
-                            <h2>LeetCode
+                            <span size="20px">LeetCode
                                 <a href="https://www.leetcode.com/rahulsah6003/" target="_blank"><img src="./images/link.svg"></a>
                                 <small><strong>280+ Problems</strong>, (1403 max)</small>
-                            </h2>
+                            </span>
                         </span>
                         </div>
                     </div>        
-                    <div class="flex-container"  display="flex">
+                    <br>
+                    <div class="flex-container"  display="flex" align="left">
                         <div class="flex-media-logo">
                              <a href="https://auth.geeksforgeeks.org/user/rahulsah6003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulsah6003" height="40" width="50" /></a>
-                        </div>
-                        <div class="flex-title">
-                            <h2>GeeksForGeeks
+                        <span class="flex-title">
+                            <span>GeeksForGeeks
                                  <a href="https://auth.geeksforgeeks.org/user/rahulsah6003" target="_blank"><img src="./images/link.svg"></a>
                                 <small><strong>300+ Problems</strong>, (7th Rank in College)</small>
-                            </h2>
+                            </span>
+                        </span>
                         </div>
-                    </div>         
+                    </div>      
+                    <br>   
                     <div class="flex-container"  display="flex">
                         <div class="flex-media-logo">
              <a href="https://www.hackerrank.com/rahulsah6003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulsah6003" height="40" width="50" /></a>
-                        </div>
-                        <div class="flex-title">
-                            <h2>HackerRank
+                        <span class="flex-title">
+                            <span>HackerRank
                                 <a href="https://www.hackerrank.com/rahulsah6003" target="_blank"><img src="./images/link.svg"></a>
                                 <small><strong>300+ Problems</strong>, (5th Rank in Problem Solving) </small>
-                            </h2>
+                            </span>
                         </div>
+                        </span>
                     </div>     
+                    <br>
                    <div class="flex-container"  display="flex">
                         <div class="flex-media-logo">
             <a href="https://www.codechef.com/users/rahulsah6003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulsah6003" height="40" width="50" /></a>
-                        </div>
-                        <div class="flex-title">
-                            <h2>CodeChef
+                        <span class="flex-title">
+                            <span>CodeChef
                                <a href="https://www.codechef.com/users/rahulsah6003" target="_blank"><img src="./images/link.svg"></a>
                                 <small><strong>200+ Problems</strong>, 1499(max)</small>
-                            </h2>
+                            </span>
+                        </span>
                         </div>
                     </div>    
+                    <br>
                     <div class="flex-container"  display="flex">
                         <div class="flex-media-logo">
           <a href="https://codeforces.com/profile/pursottam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pursottam" height="40" width="50" /></a>
-                        </div>
-                        <div class="flex-title">
-                            <h2>CodeForces
+                        <span class="flex-title">
+                            <span>CodeForces
                                 <a href="https://codeforces.com/profile/pursottam" target="_blank"><img src="./images/link.svg"></a>
                                 <small><strong>100+ Problems</strong>, 1044(max)</small>
-                            </h2>
+                            </span>
+                        </span>
                         </div>
                     </div>    
     </section>
@@ -117,11 +121,11 @@
 
 -->
 
-<p><img align="left" src="./images/mostUsed.jpg" alt="pursottam6003"/></p> 
+<!-- <p><img align="left" src="./images/mostUsed.jpg" alt="pursottam6003"/></p> 
 
 <p><img align="left" src="./images/stats.jpg" alt="pursottam6003" /></p> 
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pursottam6003&" alt="pursottam6003" /></p>  -->
+<!--  -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pursottam6003&" alt="pursottam6003" /></p>  --> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pursottam6003&" alt="pursottam6003" /></p> 
 
