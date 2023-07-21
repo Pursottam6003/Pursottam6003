@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D16AQGyguyE4G8wiw/profile-displaybackgroundimage-shrink_350_1400/0/1654761982318?e=1687996800&v=beta&t=nA-olt8kBZv43WO5_o429IoN03P2UXbjYVj4GPbtmJk" align="center">
+<img src="./images/banner.jpeg" align="center">
 
 <h1 align="center">Hi 👋, I'm Pursottam Sah</h1>
 <h3 align="center">A passionate Full stack web developer and machine learning enthusiastic from India</h3>
@@ -10,19 +10,20 @@
 
 <p align="left"> <a href="https://twitter.com/pursottamsah" target="blank"><img src="https://img.shields.io/twitter/follow/pursottamsah?logo=twitter&style=for-the-badge" alt="pursottamsah" /></a> </p>
 
-- 🔭 I’m currently working on [IOCL Tracker](https://github.com/tripathics/iocl-tracker)
+<!-- - 🔭 I’m currently working on [WhatApp Chat Analyzer]() -->
+- 👨‍💻 My best project  [Technodaya NITAP](https://technodaya.vercel.app/)
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Smart-Naka](https://github.com/Pursottam6003/smart-naka)
+- 👯 I’m looking to collaborate on [DSA_Practice](https://github.com/Pursottam6003/DSA_Practice)
 
-- 🤝 I’m looking for help with [https://github.com/Pursottam6003/Portfolio-react](https://github.com/Pursottam6003/Portfolio-react)
+- 🤝 I’m looking for help with [Smart Naka](https://github.com/Pursottam6003/smart-naka)
 
-- 👨‍💻 All of my projects are available at [https://pursottam6003.github.io/Portfolio-react/](https://pursottam6003.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [https://pursottam6003.github.io/Portfolio-react/](https://pursottam6003.github.io/Portfolio/)
+<!-- - 📝 I regularly write articles on [https://pursottam6003.github.io/Portfolio-react/](https://pursottam6003.github.io/Portfolio/) -->
 
-- 💬 Ask me about **ReactJs,ExpressJs,MongoDB,NodeJs,Python,C++,Data Structures and Algorithms, Object Oriented Programming**
+- 💬 Ask me about **ReactJs,ExpressJs,MongoDB,NodeJs,Python,C++,Data Structures and Algorithms, Object Oriented Programming, Machine Learning**
 
 - 📫 How to reach me **rahulsah6003@gmail.com**
 
@@ -44,7 +45,7 @@
                         <span class="flex-title" align="left" >
                             <span size="20px">LeetCode
                                 <a href="https://www.leetcode.com/rahulsah6003/" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong>280+ Problems</strong>, (1403 max)</small>
+                                <small><strong>480+ Problems</strong>, (1403 max)</small>
                             </span>
                         </span>
                         </div>
@@ -56,7 +57,7 @@
                         <span class="flex-title">
                             <span>GeeksForGeeks
                                  <a href="https://auth.geeksforgeeks.org/user/rahulsah6003" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong>300+ Problems</strong>, (7th Rank in College)</small>
+                                <small><strong>400+ Problems</strong>, (4th Rank in College)</small>
                             </span>
                         </span>
                         </div>
